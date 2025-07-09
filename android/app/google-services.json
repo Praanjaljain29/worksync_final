@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083429575776",
+    "project_id": "work-ws",
+    "storage_bucket": "work-ws.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083429575776:android:739e0ac59eddc8de24b705",
+        "android_client_info": {
+          "package_name": "com.mta.emtc.worksync_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuddlIy29uRoTTA_iKUJ0DV-001WifC_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
